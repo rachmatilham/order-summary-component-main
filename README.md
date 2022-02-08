@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page on Frontend Mentor]()
+- Solution URL: [Solution page on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-humN0Q16w)
 - Github Pages URL: [Github Pages](https://rachmatilham.github.io/order-summary-component-main/)
 
 ## My process
